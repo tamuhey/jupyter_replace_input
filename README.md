@@ -5,7 +5,7 @@ magic command to replace `input` to output the contents in cell line by line
 ## Installation
 
 ```
-$ pip3 install git+git://github.com/tamuhey/jupyter-replace-input.git
+$ pip install git+https://github.com/tamuhey/jupyter_replace_input.git
 ```
 
 ## Usage
