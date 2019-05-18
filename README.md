@@ -1,4 +1,4 @@
-# jupyter_replace_input
+# jupyter_replace_input [![Build Status](https://travis-ci.org/tamuhey/jupyter_replace_input.svg?branch=master)](https://travis-ci.org/tamuhey/jupyter_replace_input)
 
 magic command to replace `input` to output the contents in cell line by line
 
