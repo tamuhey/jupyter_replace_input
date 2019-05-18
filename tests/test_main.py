@@ -1,6 +1,7 @@
-from IPython.testing.globalipapp import get_ipython
-from replace_input import replace_input
 import pytest
+from IPython.testing.globalipapp import get_ipython
+
+from replace_input import replace_input
 
 
 def test_myinput():
